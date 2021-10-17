@@ -57,4 +57,5 @@ function picturesOnPage(){
     for(let i = 0; i < numberOfPictures; i++){
         document.write('<img src="https://pbs.twimg.com/profile_images/1443937530043273224/aZWclSE3_400x400.jpg">')
     }
+for (var i = 1; i <= 24; i = i + 1) {} 
 }
